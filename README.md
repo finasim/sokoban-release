@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  Classic crate-pushing puzzles. 100 levels, no ads, works offline.<br>
+  Classic crate-pushing puzzles. 100 levels, plays offline.<br>
   <em>by FinStudio</em>
 </p>
 
@@ -41,17 +41,20 @@ always one tap away.
 - **A stuck-crate warning** that offers an undo rather than ending your game.
 - **Light and dark themes**, following your system setting by default.
 - **Sound effects and haptics**, both of which you can turn off.
-- **Fully offline.** No account, no sign-in, nothing to load.
+- **Plays offline.** No account, no sign-in, nothing to load.
 
 ## Privacy
 
-The app collects nothing.
+Version 1.0.0 collects nothing.
 
-There are no ads, no analytics, no crash reporting, and no third-party SDKs that
-collect data. The released app does not request the Android `INTERNET`
-permission at all, so it is not technically capable of sending anything off your
-device. Your progress and settings are stored in the app's own private storage
-and are deleted when you uninstall it.
+It has no analytics, no crash reporting, and no third-party SDKs that collect
+data, and it does not request the Android `INTERNET` permission. Your progress
+and settings are stored in the app's own private storage and are deleted when
+you uninstall it.
+
+A later version may introduce advertising, which would mean network access and
+an advertising SDK that collects data. The privacy policy and the app's Play
+Data safety declaration will be updated before any such release ships.
 
 📄 **[Read the full privacy policy](https://finasim.github.io/sokoban-release/privacypolicy.html)**
 
@@ -64,9 +67,9 @@ and are deleted when you uninstall it.
 | **Platform** | Android |
 | **Category** | Games → Puzzle |
 | **Built with** | Flutter / Dart |
-| **Ads** | None |
+| **Ads** | None in 1.0.0; planned for a later release |
 | **In-app purchases** | None |
-| **Permissions** | None requested |
+| **Permissions** | None requested in 1.0.0 |
 
 ## Download
 
