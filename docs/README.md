@@ -81,7 +81,7 @@ The source is kept in a private repository by FinStudio.
 
 ## Contact
 
-Questions, bug reports, or feedback: **f.i.nasim96@gmail.com**
+Questions, bug reports, or feedback: **finstudio.bd@gmail.com**
 
 ---
 
